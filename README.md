@@ -13,8 +13,11 @@
 <p align="center">
   <a href="https://github.com/octacodeteam/ABP1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=octacodeteam&repo=ABP1&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="Readme Card">
+  </a>
+  <a href="https://github.com/octacodeteam/ABP2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=octacodeteam&repo=ABP2&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="Readme Card">
   </a>
+
 </p>
 
 ## Team Dev 👨‍💻
