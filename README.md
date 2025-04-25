@@ -27,10 +27,8 @@
 |      Name        |                             Github                             |
 | :--------------: |:----------------------------------------------------------: |
 |  Alisson Franco Gritti  | <a href="https://github.com/alissonfatec"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-|  Gabrielle Fontes Simoni  | <a href="https://github.com/gabifontes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 |  Gustavo Henrique Ferreira Hammes  | <a href="https://github.com/GustavoHammes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 |  Igor Santos Lima  | <a href="https://github.com/IgorSantosL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-|  Narayana Arlochi Santos  | <a href="https://github.com/narayanaarlochi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 
 </div>
 
