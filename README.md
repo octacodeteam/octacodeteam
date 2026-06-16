@@ -13,21 +13,26 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" align="center">
         <a href="https://github.com/octacodeteam/ABP1">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP1&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="ABP1">
         </a>
       </td>
-      <td width="50%">
+      <td width="50%" align="center">
         <a href="https://github.com/octacodeteam/ABP2">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP2&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="ABP2">
         </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td width="50%" align="center">
         <a href="https://github.com/octacodeteam/ABP3">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP3&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="ABP3">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/octacodeteam/ABP4">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP4&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="ABP4">
         </a>
       </td>
     </tr>
@@ -38,7 +43,7 @@
 
 <div align="center">
 
-|     Name     |                              Github                              |
+|     Name     |                                                          Github                                                          |
 | :--------------: |:----------------------------------------------------------: |
 |  Alisson Franco Gritti  | <a href="https://github.com/alissonfatec"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 |  Georgia Mantchev de Figueiredo Alves do Santos  | <a href="https://github.com/Mantchev13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
